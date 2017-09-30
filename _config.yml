@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '冯明明的独立空间'
 description: '生于忧患，死于安乐'
-keyword: '后端设计，大数据，冯明明'
+keyword: '后端设计，大数据，我是大明明'
 url: 'https://fengmm666.github.io/' # your host 
 baseurl: '/'
 
@@ -41,7 +41,7 @@ sns:
   weibo: '//weibo.com/2216859841'
   juejin: '//juejin.im/'
   instagram: '//www.instagram.com/'
-  github: '//fengmm666.github.io/'
+  github: '//github.com/fengmm666'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
